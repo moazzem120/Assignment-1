@@ -1,0 +1,10 @@
+.hero-bg{
+    position: relative;
+  width: 100vw;
+  height: 300px;
+  background-image: url("./assets/Hero-bg.png");
+  background-size: cover;
+  background-position: center;
+  color: antiquewhite;
+  text-align: center;
+}
