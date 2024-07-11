@@ -1,10 +1,29 @@
 .hero-bg{
     position: relative;
   width: 100vw;
-  height: 300px;
+  height: 400px;
   background-image: url("./assets/Hero-bg.png");
   background-size: cover;
   background-position: center;
   color: antiquewhite;
   text-align: center;
+}
+.group-img{
+    width: 150px;
+}
+.text-gm{
+    color: black;
+    font-weight: bold;
+    text-align: center;
+   
+}
+.hero-gn{
+    color: black;
+    font-size: small;
+}
+.btn-gm{
+    background-color: black;
+    padding: 10px;
+    color:white;
+    border-radius: 8px;
 }
