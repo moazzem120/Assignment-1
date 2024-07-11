@@ -1,6 +1,6 @@
 .hero-bg{
     position: relative;
-  width: 100vw;
+  width: 98vw;
   height: 400px;
   background-image: url("./assets/Hero-bg.png");
   background-size: cover;
@@ -26,4 +26,20 @@
     padding: 10px;
     color:white;
     border-radius: 8px;
+}
+.tiger-gm{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.biral-gm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.biral-left{
+    width: 250px;
+}
+.biral-left p{
+    font-size: small;
 }
